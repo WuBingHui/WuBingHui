@@ -1,9 +1,7 @@
 
 # 👋About me
 
-Hi, I'm Anthony, an experienced Android developer with over 6 years of experience.
-I possess excellent development skills, including strong communication and collaboration abilities within teams, quick debugging, and effective problem-solving capabilities.
-Additionally,I am enthusiastic, reliable, kind-hearted, and enjoy sharing my experience and expertise with others.
+Hi, I'm Anthony, an experienced Android developer with over 6 years of experience.I possess excellent development skills, including strong communication and collaboration abilities within teams, quick debugging, and effective problem-solving capabilities.Additionally,I am enthusiastic, reliable, kind-hearted, and enjoy sharing my experience and expertise with others.
 - Familiar with SOLID
 - Familiar with Design pattern
 - Familiar with Kotlin
