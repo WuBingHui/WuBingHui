@@ -16,6 +16,11 @@ Hi, I'm Anthony, an experienced Android developer with over 6 years of experienc
 ![](https://img.shields.io/badge/Tools-Jetpack-informational?style=flat&logo=android&logoColor=white&color=3DDC84)
 ![](https://img.shields.io/badge/Tools-Architecture_Components-informational?style=flat&logo=android&logoColor=white&color=3DDC84)
 
+![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=WuBingHui&show_icons=true&count_private=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuBingHui&layout=compact&hide=html,css&langs_count=10)
+
 
 ## 📫 Get in Touch
 
