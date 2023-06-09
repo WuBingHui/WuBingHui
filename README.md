@@ -3,7 +3,7 @@
 
 Hi, I'm Anthony, an Android app developer with a mindset for innovation and creativity.
 I am passionate about learning and personal growth. I enjoy the excitement that sports bring, the cleansing effect of music, and the inspiration that movies provide.
-I excel in critical thinking, teamwork, and creating a positive communication environment. I am eager to share my experiences and expertise with others.
+I excel in teamwork, and creating a positive communication environment. I am eager to share my experiences and expertise with others.
 In addition, I possess excellent development skills and experience, including strong team communication and collaboration abilities, fast debugging skills, and effective problem-solving capabilities. I believe I can bring more positive energy to the team and contribute to enhancing product quality.
 
 - Familiar with SOLID
