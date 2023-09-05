@@ -8,10 +8,12 @@ In addition, I possess excellent development skills and experience, including st
 
 - Familiar with SOLID
 - Familiar with Design pattern
-- Familiar with Kotlin
+- Familiar with Kotlin、Flow
 - Familiar with Coroutines
 - Familiar with clean architecture
 - Familiar with Architecture Components
+- Familiar with MVC、MVP、MVVM
+- Familiar with Junit 、Mockk
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/Tool-Coroutines-informational?style=flat&logo=Kotlin&logoColor=white&color=0095D5)
