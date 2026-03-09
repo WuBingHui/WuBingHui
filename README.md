@@ -1,15 +1,17 @@
 
+# 👋Headline
+
+Senior Android Engineer | Kotlin • Clean Architecture • Jetpack • Coroutines | Scalable Mobile Architecture
+
 # 👋About me
 
-Hi, I'm Anthony, an Android engineer with a strong passion for building high-quality software. I enjoy creating products that are stable, thoughtfully designed, and built for long-term sustainability rather than short-term fixes. My work is grounded in modern Android practices, including Clean Architecture, Jetpack, Kotlin Coroutines, and multi-module architecture design, with a constant focus on maintainability, scalability, and developer experience.
+I’m an Android engineer passionate about building high-quality, sustainable software. My focus is on designing systems that are stable, maintainable, and built to evolve over time rather than relying on short-term solutions.
 
-I care deeply about how systems are designed—not just to work, but to work well for the people who build and maintain them. My goal is to deliver solutions that simplify collaboration for the team while providing smooth, reliable experiences for users. I value clear ownership, strong technical foundations, and making architectural decisions that stand the test of time.
+My work centers around modern Android development, including Clean Architecture, Jetpack, Kotlin Coroutines, and multi-module architecture design. I care deeply about system design—not only ensuring software works correctly, but ensuring it remains scalable, maintainable, and enjoyable for engineers to build and maintain.
 
-Collaboration is an essential part of how I work. I enjoy brainstorming with teammates, appreciate open and honest communication, and take responsibility seriously. I'm detail-oriented, curious about emerging technologies, and always motivated to explore better approaches—without losing sight of real-world constraints or the user's perspective.
+I value clear ownership, strong technical foundations, and architectural decisions that support long-term product development. Collaboration is a key part of my work: I enjoy brainstorming with teammates, communicating openly, and taking responsibility for delivering reliable solutions that benefit both the team and the users.
 
-Outside of work, I believe that a healthy work–life balance is critical to long-term creativity and performance. I stay active through sports to maintain focus and energy, unwind with music and movies, and explore new technology products to spark fresh ideas and inspiration.
-
-To me, the value of an engineer goes beyond solving technical problems. It's about setting a positive example, elevating the people around you, and creating a sustainable cycle where meaningful work and a fulfilling life reinforce each other.
+Outside of engineering, I believe maintaining a healthy work–life balance is essential for long-term creativity and performance. I stay active through sports, enjoy music and movies, and explore new technology products to discover fresh ideas and inspiration.
 
 
 
@@ -27,4 +29,4 @@ To me, the value of an engineer goes beyond solving technical problems. It's abo
 - LinkedIn: https://www.linkedin.com/in/binghuiwu/
 
 You can learn more about my background and experience in my personal resume:
-- https://www.cakeresume.com/a173200488
+- https://www.cake.me/binghuiwu
