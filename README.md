@@ -1,7 +1,7 @@
 
 # 👋Headline
 
-Senior Android Engineer | Kotlin • Clean Architecture • Jetpack • Coroutines | Scalable Mobile Architecture
+Senior Android Engineer | App & SDK Architecture | Kotlin, Coroutines, Clean Architecture | Scalable & Maintainable Systems
 
 # 👋About me
 
