@@ -1,18 +1,39 @@
-
 # 👋Headline
 
-Senior Android Engineer | App & SDK Architecture | Kotlin, Coroutines, Clean Architecture | Scalable & Maintainable Systems
+Senior Android Engineer | App & SDK Architecture | Kotlin, Coroutines, Clean Architecture | Building Systems That Scale
 
 # 👋About me
 
-I’m an Android engineer passionate about building high-quality, sustainable software. My focus is on designing systems that are stable, maintainable, and built to evolve over time rather than relying on short-term solutions.
+I’ve always enjoyed building things, but over time I’ve realized I care more about whether they still make sense later.
 
-My work centers around modern Android development, including Clean Architecture, Jetpack, Kotlin Coroutines, and multi-module architecture design. I care deeply about system design—not only ensuring software works correctly, but ensuring it remains scalable, maintainable, and enjoyable for engineers to build and maintain.
+These days, I spend less time thinking about just “how to build it,” and more time thinking about what happens after:
 
-I value clear ownership, strong technical foundations, and architectural decisions that support long-term product development. Collaboration is a key part of my work: I enjoy brainstorming with teammates, communicating openly, and taking responsibility for delivering reliable solutions that benefit both the team and the users.
+Will it be easy to change? Will someone else understand it? Are we solving the real problem, or just getting through the moment?
 
-Outside of engineering, I believe maintaining a healthy work–life balance is essential for long-term creativity and performance. I stay active through sports, enjoy music and movies, and explore new technology products to discover fresh ideas and inspiration.
+I naturally tend to zoom out a bit.
 
+Not to make things complicated, but because I’ve seen how small decisions can turn into problems that are hard to unwind.
+
+So a lot of what I do isn’t just writing code.
+
+It often includes clarifying structure, adjusting boundaries, and helping the team align early so we don’t drift later.
+
+I’m not a fan of overly clever solutions.
+
+Most of the time, simple, clear, and well-thought-out approaches last longer.
+
+I also enjoy working through ideas with people.
+
+Challenging assumptions, refining thoughts, and gradually arriving at something better.
+
+Good decisions are rarely instant—they’re usually the result of thinking things through together.
+
+Outside of work, I’m naturally curious.
+
+I like exploring products, noticing design details, and thinking about why some things feel intuitive while others don’t.
+
+If I had to put it simply:
+I care about building things that still make sense, stay understandable, and remain workable—even as they change.
 
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
