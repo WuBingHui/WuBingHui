@@ -32,7 +32,7 @@ Outside of work, I’m naturally curious.
 
 I like exploring products, noticing design details, and thinking about why some things feel intuitive while others don’t.
 
-If I had to put it simply:
+If I had to put it simply:  
 I care about building things that still make sense, stay understandable, and remain workable—even as they change.
 
 
