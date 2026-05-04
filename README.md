@@ -1,6 +1,6 @@
 # 👋Headline
 
-Senior / Staff Android Engineer | Android App & SDK Architecture | Kotlin, Coroutines, Flow | Clean Architecture
+Senior Android Engineer | Android App & SDK Architecture | Kotlin, Coroutines, Flow | Clean Architecture
 
 # 👋About me
 
