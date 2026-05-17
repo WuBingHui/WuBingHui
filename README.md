@@ -1,16 +1,15 @@
+
 # 👋Headline
+Senior Android Engineer | Android App & SDK Architecture | Kotlin | Clean Architecture
 
-Senior Android Engineer | Android App & SDK Architecture | Kotlin, Coroutines, Flow | Clean Architecture
 
-# 👋About me
+# 👋Professional Summary
+Senior Android Engineer with 9+ years of experience building and modernizing Android applications, SDKs, and engineering foundations across multiple product domains, including media, advertising, fintech, e-commerce, live streaming, content platforms, and internal operational systems.
 
-I'm Anthony, a Senior Android Engineer with 9+ years of experience building and modernizing Android applications and SDKs across different product domains.
+Specialized in Kotlin, Coroutines, Flow, Android app architecture, SDK architecture, Clean Architecture, modularization, build system modernization, CI/CD automation, and legacy codebase modernization.
 
-My work focuses on designing maintainable Android architectures, improving system boundaries, modernizing legacy codebases, and building scalable engineering foundations with Kotlin, Coroutines, Flow, Clean Architecture, modularization, Gradle Kotlin DSL, Version Catalog, build-logic, and CI/CD automation.
+Experienced in designing maintainable system boundaries, stable integration interfaces, reusable SDK foundations, and scalable Android architectures aligned with real product constraints.
 
-Over the years, I've worked on production apps, SDKs, internal infrastructure, publishing workflows, and cross-team integrations. These experiences helped me develop a practical approach to architecture: keeping systems understandable, testable, evolvable, and aligned with real product constraints.
-
-I care about long-term maintainability, clear ownership, developer experience, and pragmatic technical decisions. Beyond implementation, I often help clarify requirements, define boundaries, reduce technical debt, and support teams in building systems that can continue to evolve.
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/Tool-Coroutines-informational?style=flat&logo=Kotlin&logoColor=white&color=0095D5)
